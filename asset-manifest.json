@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kits-frontend-test/static/css/main.601b0c97.css",
-    "main.js": "/kits-frontend-test/static/js/main.c2b2fce8.js",
-    "index.html": "/kits-frontend-test/index.html",
-    "main.601b0c97.css.map": "/kits-frontend-test/static/css/main.601b0c97.css.map",
-    "main.c2b2fce8.js.map": "/kits-frontend-test/static/js/main.c2b2fce8.js.map"
+    "main.css": "/fronted-test-kits/static/css/main.601b0c97.css",
+    "main.js": "/fronted-test-kits/static/js/main.c2b2fce8.js",
+    "index.html": "/fronted-test-kits/index.html",
+    "main.601b0c97.css.map": "/fronted-test-kits/static/css/main.601b0c97.css.map",
+    "main.c2b2fce8.js.map": "/fronted-test-kits/static/js/main.c2b2fce8.js.map"
   },
   "entrypoints": [
     "static/css/main.601b0c97.css",
