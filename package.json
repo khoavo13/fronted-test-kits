@@ -2,7 +2,7 @@
   "name": "kit-front-end-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://khoavo13.github.io/kits-frontend-test/",
+  "homepage": "https://khoavo13.github.io/fronted-test-kits/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "@testing-library/jest-dom": "^5.17.0",
